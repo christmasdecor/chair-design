@@ -1,0 +1,1 @@
+sh localbuild.sh && sh githugolocal.sh

@@ -1,0 +1,1 @@
+rm -rf ../autohugo/data/*.php && rm -rf ../autohugo/export/deploy/.git && rm -rf ../autohugo/export/deploy/config.toml && rm -rf ../autohugo/export/deploy/public && rm -rf ../autohugo/export/deploy/content/post/* && rm -rf ../autohugo/cache/*

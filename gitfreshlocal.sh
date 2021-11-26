@@ -1,0 +1,1 @@
+sh clean.sh && sh costumehugo.sh sh && sh scraping.sh && cd export/deploy && hugo && sh githugolocal.sh
