@@ -1,1 +1,0 @@
-baseURL = "https://christmasdecor.github.io/exterio-interior/chair-design/"

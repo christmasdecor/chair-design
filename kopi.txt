@@ -1,1 +1,0 @@
-copyright = "Copyright 2021 [christmasdecor.github.io/chair-design](https://christmasdecor.github.io/chair-design)"

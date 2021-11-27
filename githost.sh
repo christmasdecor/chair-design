@@ -1,1 +1,0 @@
-sh freedeploy.sh && sh githugohost.sh

@@ -1,4 +1,0 @@
-
-cd C:\xampp\htdocs\shuriken
-
-php import-kw.php keywords.txt en us 10

@@ -1,1 +1,0 @@
-sh clean.sh && sh costumehugo.sh && sh scraping.sh && sh githugohost.sh
